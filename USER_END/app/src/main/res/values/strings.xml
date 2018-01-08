@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">USER_END</string>
+    <string name="title_activity_call_ambulance_">Map</string>
 </resources>
